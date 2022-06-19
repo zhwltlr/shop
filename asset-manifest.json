@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db3598d9.css",
+    "main.js": "/static/js/main.39dc2b17.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/nature-ge11690eb8_1920.jpg": "/static/media/nature-ge11690eb8_1920.db1a7844da6c60b8853e.jpg",
+    "index.html": "/index.html",
+    "main.db3598d9.css.map": "/static/css/main.db3598d9.css.map",
+    "main.39dc2b17.js.map": "/static/js/main.39dc2b17.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3598d9.css",
+    "static/js/main.39dc2b17.js"
+  ]
+}
